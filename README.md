@@ -1,1 +1,2 @@
-Repositório com os dados utilizados no trabalho: **Detecção de eventos em fóruns da Dark Web e Surface Web usando aprendizado de máquina**
+Repository with the data used in the work: Detection of events in Dark Web and Surface Web forums using machine learning.
+
